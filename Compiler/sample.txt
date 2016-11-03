@@ -1,0 +1,14 @@
+void main(){
+	int a=2E+8;
+	//]
+	int b[]={1,2};
+	if(a>0){a=play();}
+	else{}
+	while(a>0){break;}
+	//}
+}
+
+int play(){
+	return 1;
+}
+
